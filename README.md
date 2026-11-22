@@ -183,7 +183,7 @@ AegisVault bir dosyayı veya klasörü açtığında **sabit diske ASLA dokunmaz
 PowerShell veya Komut Satırı'nı açın:
 ```powershell
 # Depoyu klonlayın veya indirin
-git clone https://github.com/kullanici-adiniz/aegis-vault.git
+git clone https://github.com/leny-git/aegis-vault.git
 cd aegis-vault
 
 # Gerekli kütüphaneleri yükleyin
