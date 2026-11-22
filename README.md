@@ -22,7 +22,7 @@
   <a href="#-4-katmanlı-kriptografik-zırh"><img src="https://img.shields.io/badge/KDF-Argon2id%20(64MB%20RAM)-059669.svg?style=for-the-badge" alt="Argon2id"></a>
   <a href="#-adli-bilişim-seviyesinde-imha-anti-forensics"><img src="https://img.shields.io/badge/Anti--Forensics-DoD%205220.22--M%203--Pass-ea580c.svg?style=for-the-badge" alt="Anti Forensics"></a>
   <a href="#-adım-adım-kurulum-rehberi"><img src="https://img.shields.io/badge/OS-Windows%2010%20%2F%2011%20(64--bit)-0078d7.svg?style=for-the-badge&logo=windows" alt="Windows 10/11"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-8b5cf6.svg?style=for-the-badge" alt="License"></a>
+  <a href="LICENSE"><img src="" alt="License"></a>
 </p>
 
 ---
